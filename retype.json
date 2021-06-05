@@ -12,6 +12,8 @@
     }
   },
 
+  "favicon": "static/favicon.svg",
+
   "meta": {
     "title": " | Gatego Docs"
   },
