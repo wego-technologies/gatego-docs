@@ -1,6 +1,6 @@
 ---
 label: Setting Up
-order: 100
+order: 0
 icon: zap
 ---
 
