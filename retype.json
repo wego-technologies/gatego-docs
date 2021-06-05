@@ -1,0 +1,33 @@
+{
+  "input": ".",
+  "output": ".retype",
+
+  "branding": {
+    "title": "Gatego",
+    "label": "Docs",
+    "colors": {
+      "label": {
+        "text": "#00a1d3"
+      }
+    }
+  },
+
+  "links": [
+    {
+      "text": "Home",
+      "link": "https://gatego.io/"
+    },
+        {
+      "text": "Pricing",
+      "link": "https://gatego.io/pricing"
+    },
+    {
+      "text": "Cloud",
+      "link": "https://cloud.gatego.io/"
+    }
+  ],
+
+  "footer": {
+    "copyright": "© Copyright {{ year }} Wego Technologies, LLC. All rights reserved."
+  }
+}
