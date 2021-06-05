@@ -12,6 +12,10 @@
     }
   },
 
+  "meta": {
+    "title": " | Gatego Docs"
+  },
+
   "links": [
     {
       "text": "Home",
@@ -24,6 +28,10 @@
     {
       "text": "Cloud",
       "link": "https://cloud.gatego.io/"
+    },
+    {
+      "text": "Firmware",
+      "link": "https://firmware.gatego.io/"
     }
   ],
 
