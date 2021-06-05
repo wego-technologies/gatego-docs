@@ -4,7 +4,7 @@ icon: home
 ---
 # Welcome to the Gatego Docs!
 
-![](static/banner.png)
+![](static/banner.svg)
 
 Welcome to the gatego documentation site. Here you will be able to find a variety of different articles on gatego's funtionality.
 
