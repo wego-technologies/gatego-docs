@@ -1,7 +1,7 @@
 {
   "input": ".",
   "output": ".retype",
-
+  "url": "docs.gatego.io",
   "branding": {
     "title": "Gatego",
     "label": "Docs",
@@ -11,19 +11,16 @@
       }
     }
   },
-
   "favicon": "static/favicon.svg",
-
   "meta": {
     "title": " | Gatego Docs"
   },
-
   "links": [
     {
       "text": "Home",
       "link": "https://gatego.io/"
     },
-        {
+    {
       "text": "Pricing",
       "link": "https://gatego.io/pricing"
     },
@@ -36,7 +33,6 @@
       "link": "https://firmware.gatego.io/"
     }
   ],
-
   "footer": {
     "copyright": "© Copyright {{ year }} Wego Technologies, LLC. All rights reserved."
   }
