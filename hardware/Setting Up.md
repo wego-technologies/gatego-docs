@@ -10,10 +10,15 @@ Get everything out othe the box, you will also need a Philipps 1 screwdriver to 
 
 ==- Box Contents
 1x Logic Board
+
 1x Processor Module
+
 1x 6-Led Strip with a 3-Pin connector
+
 1x Screen
+
 1x 4-Pin cable
+
 1x Mounting system
 ===
 
