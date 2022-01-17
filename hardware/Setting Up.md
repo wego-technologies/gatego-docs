@@ -51,7 +51,7 @@ When you power up your device for the first time a boot up sequence and self-tes
 
 Once the initial set up is complete and internal configuration has been completed, a "Setup Device" screen will appear. There are two ways to complete this set up. Both require a device with an active internet connection.
 
-+++ Set up with QR Code [!badge Recommended]
++++ Set up with QR Code   [!badge Recommended]
 In order to set up with the QR code, simply click on the "Scan QR" button and use your device's camera to scan it. 
 
 Follow the prompts that appear on your device to set up your Autonomous+ system. Once complete, Autonomous+ will show a "We are registering your device", this process may take a couple of minutes, please be patient.
@@ -60,7 +60,8 @@ Once everything is done, the device will switch to the main screen, meaning it i
 +++ Set up manually
 In order to set up manually, please click on  "Setup Manually" on your Gatego Autonomous+ device, theb click the button below and follow the instrucions.
 
-[!button Button](https://cloud.gatego.io)
+[!button Open Set up](https://cloud.gatego.io)
+
 or follow this link: [https://cloud.gatego.io](https://cloud.gatego.io)
 
 Follow the prompts that appear on your device to set up your Autonomous+ system. When asked for the Device ID simply copy the 9-digit number shown on your device, the pin can be found by clicking on the :icon-issue-closed: checkmark located on the top right-hand-side of the screen.
