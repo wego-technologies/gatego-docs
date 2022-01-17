@@ -47,10 +47,32 @@ Lastly, let's connect the 3-pin screw terminal. This will be used to control the
 
 # First Power-up
 
+When you power up your device for the first time a boot up sequence and self-test will commence. The first boot may take a couple of minutes, please be patient. The 5th LED might turn red during this process, this is normal and the device is simply peraring itself to be deployed.
 
-# Register device
+Once the initial set up is complete and internal configuration has been completed, a "Setup Device" screen will appear. There are two ways to complete this set up. Both require a device with an active internet connection.
+
++++ Set up with QR Code [!badge Recommended]
+In order to set up with the QR code, simply click on the "Scan QR" button and use your device's camera to scan it. 
+
+Follow the prompts that appear on your device to set up your Autonomous+ system. Once complete, Autonomous+ will show a "We are registering your device", this process may take a couple of minutes, please be patient.
+
+Once everything is done, the device will switch to the main screen, meaning it is ready to go!
++++ Set up manually
+In order to set up manually, please click on  "Setup Manually" on your Gatego Autonomous+ device, theb click the button below and follow the instrucions.
+
+[!button Button](https://cloud.gatego.io)
+or follow this link: [https://cloud.gatego.io](https://cloud.gatego.io)
+
+Follow the prompts that appear on your device to set up your Autonomous+ system. When asked for the Device ID simply copy the 9-digit number shown on your device, the pin can be found by clicking on the :icon-issue-closed: checkmark located on the top right-hand-side of the screen.
+
+Once complete, Autonomous+ will show a "We are registering your device", this process may take a couple of minutes, please be patient.
+
+Once everything is done, the device will switch to the main screen, meaning it is ready to go!
++++
 
 
 !!!success Success
-You are all set! Gatego Autonomous+ is ready to be used.
+You are all set! Gatego Autonomous+ is ready to be used. Wasn't that easy?
 !!!
+
+If you have any issues please contact us through the chat feature in the gatego app.
