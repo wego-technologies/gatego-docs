@@ -8,7 +8,7 @@ icon: home
 
 Welcome to the gatego documentation site. Here you will be able to find a variety of different articles on gatego's funtionality.
 
-Gatego is a simple and modern Gate Management Solution focused on moving buissnesse forward by simplifying yard management. Our completely online software allows everyone to always have the latest analytics.
+Gatego is a simple and modern Gate Management Solution focused on moving buissnesse forward by simplifying yard management. Our completely online software allows everyone to always have the latest analytics and have the peace of mind you need.
 
 Gatego was also made with integrations in mind. With our industry-first innovative RESTful API gatego can easily be integrated into any workflow effortlessly.
 
