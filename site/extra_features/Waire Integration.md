@@ -62,12 +62,12 @@ Diesel | Non-low emissions truck
 
 ||| Truck Type Category Mapping
 
-Fuel Type   | Truck class / Truck class range
+Truck Type   | Truck class / Truck class range
 ---    | ---
 Pick Up Truck | Class 2b-3
 Box Truck | Class 4-7
 Semi Truck | Class 8
-Any truck with a trailer | Class 8
+Semi Truck + Trailer | Class 8
 
 !!!light Vehicle visits to the yard
 Please note that currently the vehicle visits to the yard are deliberately ignored in the calculation of Waire points. 
