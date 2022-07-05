@@ -69,8 +69,8 @@ Box Truck | Class 4-7
 Semi Truck | Class 8
 Semi Truck + Trailer | Class 8
 
-!!!light Vehicle visits to the yard
-Please note that currently the vehicle visits to the yard are deliberately ignored in the calculation of Waire points. 
+!!!light Guest visits to the yard
+Please note that guest visits to the yard are deliberately ignored in the calculation of Waire points. 
 !!!
 |||
 
