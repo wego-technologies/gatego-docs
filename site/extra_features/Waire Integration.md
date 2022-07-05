@@ -25,9 +25,9 @@ of indoor floor space in a single building.
 
 When enabled in settings, Gatego keeps track of WAIRE compliance in real time, including Waire Points Compliance Obligation and Waire points earned.
 
-The information accessible in a panel on the summary dashboard:
+The information is accessible in the Gatego dashboard:
 
-![Gatego Waire Panel](/static/site/extra_features/waire/waire_panel.png)
+![Gatego Waire Dashboard Card](/static/site/extra_features/waire/waire_panel.png)
 
 
 ### How does it work
